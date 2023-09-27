@@ -28,3 +28,4 @@ jobs:
       - name: Build with Maven Wrapper
         run: ./mvnw -B package
         continue-on-error: true
+        
